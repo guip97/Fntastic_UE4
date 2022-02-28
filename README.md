@@ -1,2 +1,2 @@
 # Fntastic_UE4
-Test project task for Fntastic
+Test project for Fntastic
